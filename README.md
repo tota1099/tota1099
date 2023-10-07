@@ -1,6 +1,7 @@
 ### Hello!  :D
 
 🇧🇷 Meu nome é Renan de Medeiros Porto. Sou um engenheiro de software brasileiro, apaixonado por resolver problemas e aprender.
+
 🇨🇦 My name is Renan de Medeiros Porto. I'm a Brazilian Software Enginner who's passionate about solving problems and learning new things.
 
 #### “A smooth sea never made a skilled sailor." 🧠 (President Franklin D. Roosevelt)
